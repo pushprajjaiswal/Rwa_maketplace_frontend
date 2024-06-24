@@ -45,69 +45,8 @@ export default function Header04() {
     pages: [
       {
         id: uuidv4(),
-        name: "Home 1",
+        name: "Home ",
         path: "/",
-      },
-      {
-        id: uuidv4(),
-        name: "Home 2",
-        path: "/home/home_2",
-      },
-      {
-        id: uuidv4(),
-        name: "Home 3",
-        path: "/home/home_3",
-      },
-      {
-        id: uuidv4(),
-        name: "Home 4",
-        path: "/home/home_4",
-      },
-      {
-        id: uuidv4(),
-        name: "Home 5",
-        path: "/home/home_5",
-      },
-      {
-        id: uuidv4(),
-        name: "Home 6",
-        path: "/home/home_6",
-      },
-      {
-        id: uuidv4(),
-        name: "Crypto Consultant",
-        condition: true,
-        path: "/home/home_7",
-      },
-      {
-        id: uuidv4(),
-        name: "NFT Game",
-        condition: true,
-        path: "/home/home_8",
-      },
-      {
-        id: uuidv4(),
-        name: "Dao Platform",
-        condition: true,
-        path: "/home/home_9",
-      },
-      {
-        id: uuidv4(),
-        name: "Crypto App",
-        condition: true,
-        path: "/home/home_10",
-      },
-      {
-        id: uuidv4(),
-        name: "Crypto Trading",
-        condition: true,
-        path: "/home/home_11",
-      },
-      {
-        id: uuidv4(),
-        name: "ICO Landing",
-        condition: true,
-        path: "/home/home_12",
       },
     ],
   };
